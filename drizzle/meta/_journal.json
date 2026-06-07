@@ -1,0 +1,41 @@
+{
+  "version": "7",
+  "dialect": "mysql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1779910822838,
+      "tag": "0000_gifted_imperial_guard",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1779910979102,
+      "tag": "0001_violet_red_wolf",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1779929023712,
+      "tag": "0002_flowery_corsair",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "5",
+      "when": 1779969037399,
+      "tag": "0003_yielding_epoch",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "5",
+      "when": 1779981681601,
+      "tag": "0004_melted_mephistopheles",
+      "breakpoints": true
+    }
+  ]
+}
