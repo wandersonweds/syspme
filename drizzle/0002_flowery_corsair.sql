@@ -1,0 +1,1 @@
+ALTER TABLE `ordens_servico` ADD `numero` int DEFAULT 0 NOT NULL;
